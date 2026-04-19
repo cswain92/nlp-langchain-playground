@@ -1,0 +1,54 @@
+# 🔐 Environment variables (VERY IMPORTANT)
+
+.env
+
+# 🐍 Virtual environment
+
+venv/
+env/
+.venv/
+
+# 🧠 Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# 📓 Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# 📦 Build / packaging
+
+build/
+dist/
+*.egg-info/
+
+# 📊 Data files (optional - depends on your use case)
+
+data/
+*.csv
+*.tsv
+*.json
+
+# 🧪 Logs
+
+*.log
+
+# 🧰 IDE / Editor files
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 🔑 Secrets / keys
+
+*.pem
+*.key
+
+# 🧾 Temporary files
+
+*.tmp
+*.bak

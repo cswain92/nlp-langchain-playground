@@ -1,0 +1,10 @@
+Hello world
+How are you doing today
+This is a simple sample file for testing file handling
+Python is great for text processing and NLP
+Hello again world
+Natural Language Processing is fun to learn
+LangChain helps in building LLM applications
+This file contains multiple lines and words
+Practice makes you better in coding
+Hello Python developers
