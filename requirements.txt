@@ -3,3 +3,9 @@ spacy
 langchain
 openai
 notebook
+streamlit # For building interactive web applications
+pandas # For data manipulation and analysis
+numpy # For numerical computations
+textblob ## For sentiment analysis
+transformers # For advanced NLP models
+torch # For deep learning models
