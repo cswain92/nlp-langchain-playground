@@ -9,3 +9,4 @@ numpy # For numerical computations
 textblob ## For sentiment analysis
 transformers # For advanced NLP models
 torch # For deep learning models
+PyPDF2 # For PDF processing
